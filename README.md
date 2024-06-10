@@ -66,4 +66,6 @@ HTML、CSS、JavaScript、Ajax、Vue2、Vue3、React18、TypeScript、Ant Design
             alt="javascript" width="40" height="40"/> </a>
 </p>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PALE13&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6&exclude_repo=PALE13.github.io" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=PALE13&theme=github-compact&hide_border=true&area=true" />
 
